@@ -26,6 +26,6 @@ st.markdown("""
 </style>
 
 <div class="marquee">
-    <p>Selamat Datang ke Sistem Kami! 🎉</p>
+    <p>PYTHON PROGRAMMING! 🎉</p>
 </div>
 """, unsafe_allow_html=True)
