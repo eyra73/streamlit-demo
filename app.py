@@ -1,3 +1,3 @@
 import streamlit as st
-st.title("Streamlit")
-st.write("eyra")
+st.title("STREAMLIT")
+st.write("eyra shahira")
