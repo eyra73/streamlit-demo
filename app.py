@@ -158,7 +158,7 @@ st.markdown("""
 # ==============================
 
 st.markdown(
-    '<div class="title">✨ WELCOME TO OUR WEBSITE ✨</div>',
+    '<div class="title">✨ WELCOME TO EYRA WEBSITE ✨</div>',
     unsafe_allow_html=True
 )
 
